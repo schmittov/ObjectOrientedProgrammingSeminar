@@ -1,0 +1,2 @@
+# ObjectOrientedProgrammingSeminar
+Repository for seminar
